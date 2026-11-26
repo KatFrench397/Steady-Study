@@ -1,6 +1,6 @@
 /* Steady Study service worker. Lets the app open with no internet.
    The version and file list are filled in by scripts/build.mjs. */
-var CACHE = 'steady-study-49ef61252e18';
+var CACHE = 'steady-study-9a2eaa8f5461';
 var ASSETS = [
   "./",
   "./about.html",
